@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://goldeaglecasino-online.com/
+Sitemap: https://goldeaglecasino-online.com/sitemap.xml
